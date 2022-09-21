@@ -19,10 +19,12 @@
     margin: 5px 0;
   }
   
-  header {
+  h1{
+    text-align : center;
+}
+.sitename {
     background: #f4f4f4;
     padding: 1rem;
-    text-align: center;
   }
   
   .container {
